@@ -1,0 +1,24 @@
+{
+  "name": "bower.json",
+  "authors": [
+    "pk1988 <phanikumar.narina@magikminds.com>"
+  ],
+  "description": "Download all the packages required for the project",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.1",
+    "oclazyload": "^1.1.0"
+  }
+}
